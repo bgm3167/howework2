@@ -1,0 +1,183 @@
+{
+  "status": "발행",
+  "sources": [
+    {
+      "title": "공간을 지배하고, 음율을 내장하고, 한문을 집어삼킨 '한글': 세종은....",
+      "url": "https://blog.naver.com/graff-rindellheiger/224312954992",
+      "date": "2026-06-11"
+    },
+    {
+      "title": "무선녹음기 서앤오 AI 캡슐 후기, 회의 녹음부터 전사 요약까지",
+      "url": "https://blog.naver.com/toruin84/224430512880",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "클로바노트로 회의록 맡겼더니 상사가 내게 던진 한마디",
+      "url": "https://blog.naver.com/dltbgkssns/224367588826",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "[IT] AI 회의록 자동 정리, 클로바노트·다글로 실사용 비교",
+      "url": "https://blog.naver.com/coredxi/224403471578",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "강의 녹음과 요약 AI, 클로바노트 vs 다글로 비교 분석!",
+      "url": "https://blog.naver.com/kthigh11/223694821994",
+      "date": "2024-12-16"
+    },
+    {
+      "title": "녹음 텍스트 변환 클로바노트 다글로 갤럭시 비교",
+      "url": "https://blog.naver.com/ny13579/224197886492",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "AI로 회의록 자동 정리하는 방법",
+      "url": "https://blog.naver.com/gaboja2050/224363468575",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Speech & transcription accuracy FAQ – Help Center",
+      "url": "https://help.otter.ai/hc/en-us/articles/360048322533-Speech-transcription-accuracy-FAQ",
+      "date": ""
+    },
+    {
+      "title": "Best Practices to Maximize Speaker Identification – Help Center",
+      "url": "https://help.otter.ai/hc/en-us/articles/37817241040535-Best-Practices-to-Maximize-Speaker-Identification",
+      "date": ""
+    },
+    {
+      "title": "Transcribe an existing conversation recording – Help Center",
+      "url": "https://help.otter.ai/hc/en-us/articles/360059448294-Transcribe-an-existing-conversation-recording",
+      "date": ""
+    },
+    {
+      "title": "Transcribe conversations in English, Spanish, French, German, Japanese, or Chinese (Simplified) – Help Center",
+      "url": "https://help.otter.ai/hc/en-us/articles/26660468516631-Transcribe-conversations-in-English-Spanish-French-German-Japanese-or-Chinese-Simplified",
+      "date": ""
+    },
+    {
+      "title": "Fireflies API: Overview & How to Get Your API Key",
+      "url": "https://guide.fireflies.ai/articles/3737786777-fireflies-api-overview-get-api-key",
+      "date": ""
+    },
+    {
+      "title": "Multi-Language Mode (Beta): Transcribe Fireflies meetings in multiple languages in a single meeting",
+      "url": "https://guide.fireflies.ai/articles/2585231364-transcribe-fireflies-meetings-in-multiple-languages-with-multi-language-mode-beta",
+      "date": ""
+    },
+    {
+      "title": "How to Troubleshoot Transcription Language Issues",
+      "url": "https://guide.fireflies.ai/articles/3575661565-troubleshooting-transcription-language-issues",
+      "date": ""
+    },
+    {
+      "title": "Privacy Policy | Fireflies.ai",
+      "url": "https://fireflies.ai/privacy-policy",
+      "date": ""
+    },
+    {
+      "title": "Responsible and secure meeting notetaking with Fireflies",
+      "url": "https://guide.fireflies.ai/articles/7434774675-responsible-and-secure-meeting-notetaking-with-fireflies",
+      "date": ""
+    },
+    {
+      "title": "Enterprise Admin Controls Overview – Help Center",
+      "url": "https://help.otter.ai/hc/en-us/articles/13352505516695-Enterprise-Admin-Controls-Overview",
+      "date": ""
+    },
+    {
+      "title": "Otter.ai Privacy Policy | Otter.ai",
+      "url": "https://otter.ai/privacy-policy",
+      "date": ""
+    },
+    {
+      "title": "Privacy Policy - SpeakOn",
+      "url": "https://www.notta.ai/en/speakon-privacy",
+      "date": ""
+    },
+    {
+      "title": "Nine risks caused by AI notetakers — Careful Industries",
+      "url": "https://www.careful.industries/blog/2025-11-nine-risks-caused-by-ai-notetakers",
+      "date": ""
+    },
+    {
+      "title": "Scribe and prejudice? | Ada Lovelace Institute",
+      "url": "https://www.adalovelaceinstitute.org/report/scribe-and-prejudice",
+      "date": ""
+    },
+    {
+      "title": "Medical AI transcriber for Ontario doctors 'hallucinated,' generated errors: auditor general | CBC News",
+      "url": "https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049",
+      "date": ""
+    },
+    {
+      "title": "Whispered Lies: How AI Transcription Sparks Concerns - Ditto",
+      "url": "https://www.dittotranscripts.com/blog/whispered-lies-how-ai-transcription-sparks-concerns",
+      "date": ""
+    },
+    {
+      "title": "Evaluating Open-Source LLMs for Text Summarization and ...",
+      "url": "https://aclanthology.org/2026.nlp4dh-1.35.pdf",
+      "date": ""
+    },
+    {
+      "title": "A hallucination detection and mitigation framework for faithful text summarization using LLMs",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12796222",
+      "date": ""
+    },
+    {
+      "title": "클로바노트vs다글로vs콜라보 | AI 회의록 서비스, 이 영상으로 비교 끝! [클라우드 물어보살 Ep.31]",
+      "url": "https://www.youtube.com/watch?v=SHJkqbfmsys",
+      "date": "2025-05-13"
+    },
+    {
+      "title": "이 AI들만 있으면 완벽한 기록이 가능해집니다 | 회의록, 발표 준비에 필수 AI앱 전부 사용하고 비교해봤습니다",
+      "url": "https://www.youtube.com/watch?v=9lKkqYE0ilk",
+      "date": "2024-12-12"
+    },
+    {
+      "title": "AI 음성 녹음 & 요약 비교! 강의·회의 필기 자동화 툴 추천",
+      "url": "https://markppark.tistory.com/131",
+      "date": "2025-02-28"
+    },
+    {
+      "title": "회의록 작성? 이제 AI에게 맡기세요! 시간 절약 끝판왕, 실시간 회의 ....",
+      "url": "https://glan.tistory.com/175",
+      "date": "2025-03-28"
+    },
+    {
+      "title": "목소리를 텍스트 변환 앱 추천 어플 :: 정보공유",
+      "url": "https://dino82.tistory.com/203",
+      "date": "2023-12-02"
+    },
+    {
+      "title": "목소리를 텍스트 변환시키는 앱 비교. 클로바 노트 vs 다글로",
+      "url": "https://blog.naver.com/reicounty_daesung/223422720664",
+      "date": "2024-04-21"
+    },
+    {
+      "title": "음성 텍스트 변환, 무료 앱 3가지 추천",
+      "url": "https://blog.naver.com/bthrug/223844110970",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "[PLAY IT] 발상의 전환…AI 녹음기에 들어온 이어폰 ‘앤커 리버티 5 프로...",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237978?sid=105",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "탑원에이아이, AI 회의록 솔루션 ‘탑원노트’ 조달청 벤처나라 등록",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044075?sid=101",
+      "date": "2026-08-25"
+    }
+  ],
+  "review": {
+    "source_fidelity": 2.08,
+    "reader_value": 2.66,
+    "contradiction": 0.24,
+    "passed": true
+  },
+  "feedback": "",
+  "round": 0
+}
